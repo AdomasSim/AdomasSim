@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adomas</h1>
 <h3 align="center">Upcoming data analyst in Lithuania.</h3>
-![](https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif)
+<img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adomassim&label=Profile%20views&color=0e75b6&style=flat" alt="adomassim" /> </p>
 
 <h3 align="left">Connect with me:</h3>
