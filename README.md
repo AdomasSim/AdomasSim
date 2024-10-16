@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adomas</h1>
+<h1 align="center">Hi 👋, I'm Adomas Simenas</h1>
 <h3 >I'm an upcoming data analyst in Lithuania.</h3>
 <img align="center" src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adomassim&label=Profile%20views&color=0e75b6&style=flat" alt="adomassim" /> </p>
